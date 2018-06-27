@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationLab</string>
+    <string name="blink">BLINK</string>
+    <string name="clockwise">CLOCKWISE</string>
+    <string name="fade">FADE</string>
+    <string name="move">MOVE</string>
+    <string name="slide">SLIDE</string>
+    <string name="zoom">ZOOM</string>
+</resources>
